@@ -1,0 +1,4 @@
+<meta>
+<info author="Priasmr" version="1.0" name="Ufuk" description="Optimizasyon scripti" type="script" />
+  <script src="s_optimizasyon.lua" type="server"/>
+</meta>
